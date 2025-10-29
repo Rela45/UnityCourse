@@ -3,10 +3,10 @@ using UnityEngine.UI;
 
 public class ChiudiFinestra : MonoBehaviour
 {
-    [SerializeField] private GameObject _apriFinestra;
+    [SerializeField] private GameObject _chiudiFinestra;
 
     void Start()
     {
-        GetComponent<Button>().onClick.AddListener(() => _apriFinestra.SetActive(false));            
+        GetComponent<Button>().onClick.AddListener(() => _chiudiFinestra.SetActive(false));            
     }
 }
