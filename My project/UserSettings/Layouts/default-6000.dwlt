@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -39,9 +39,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 915
+    x: 413
     y: 0
-    width: 480
+    width: 982
     height: 548
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -347,7 +347,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 266
     y: 0
-    width: 649
+    width: 147
     height: 548
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -597,7 +597,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 4cab0000
       m_LastClickedID: 0
       m_ExpandedIDs: 14fbffff
       m_RenameOverlay:
@@ -647,7 +647,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 274
     y: 87
-    width: 647
+    width: 145
     height: 522
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1130,9 +1130,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 923
+    x: 421
     y: 87
-    width: 478
+    width: 980
     height: 522
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1187,23 +1187,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 478
+      width: 980
       height: 501
-    m_Scale: {x: 0.24895833, y: 0.24895833}
-    m_Translation: {x: 239, y: 250.5}
+    m_Scale: {x: 0.46388885, y: 0.46388888}
+    m_Translation: {x: 490, y: 250.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -960
-      y: -1006.19244
-      width: 1920
-      height: 2012.3849
+      x: -1056.2875
+      y: -540
+      width: 2112.575
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.24895833
-  m_LastWindowPixelSize: {x: 478, y: 522}
+  m_defaultScale: 0.46388888
+  m_LastWindowPixelSize: {x: 980, y: 522}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
